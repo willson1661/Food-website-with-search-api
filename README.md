@@ -1,1 +1,1 @@
-[Food website with serach api using fetch](https://weather-app-eta-lime.vercel.app/)
+[Food website with serach api using fetch](https://food-website-with-search-api.vercel.app/)
